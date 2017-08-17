@@ -1,4 +1,4 @@
-# pixi-experiment
+# D3 Svg Comparison
 
 > A Vue.js project
 
